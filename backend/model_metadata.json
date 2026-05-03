@@ -1,0 +1,24 @@
+{
+    "model_name": "Random Forest Classifier",
+    "final_threshold": 0.5,
+    "best_parameters": {
+        "n_estimators": 100,
+        "max_depth": null,
+        "min_samples_split": 2,
+        "random_state": 42
+    },
+    "features": [
+        "sslc_percentage",
+        "plus_two_percentage",
+        "cgpa_percentage",
+        "backlogs_count",
+        "year_gap",
+        "internship_count",
+        "certification_count",
+        "project_count",
+        "skilled_score",
+        "test_score",
+        "academic_consistency",
+        "academic_trend"
+    ]
+}
